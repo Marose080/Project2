@@ -1,3 +1,3 @@
-# Project2\
+# Project2
 HR Analytics Dashboard
 The HR Manager needs a way to track HR Records and identify some employee segmentation and some statistics such as department, position, gender, age, etc to get an overall understanding of manpower details of a company at a glance. Given are four raw worksheets, containing HR Data, Position Lookup, Department Lookup, and Manager Lookup, design and deliver an end-to-end data analytics solution for HR Department - from scratch! Expected to process dirty data to clean data and Exploratory Data Analysis (EDA), Data Viz, and provides data-driven insights. Having HR Dashboard offers centralized and organized HR records, data-driven decision-making, and improved strategic planning and resource optimization.
